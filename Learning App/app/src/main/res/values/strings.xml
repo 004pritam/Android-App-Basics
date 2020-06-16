@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pritam App V2</string>
+    <string name="button_name">Send</string>
+    <string name="message_recieved">Message Recived</string>
+    <string name="button_second">Reply</string>
+    <string name="text_header_reply">Reply Received</string>
+</resources>
