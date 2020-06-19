@@ -32,4 +32,9 @@ public class SecondActivity extends AppCompatActivity {
         setResult(RESULT_OK, replyIntent);
         finish();
     }
+
+    public void goToThirdActivity(View view) {
+        Intent intent= new Intent(this, UIActivity.class);
+        startActivity(intent);
+    }
 }

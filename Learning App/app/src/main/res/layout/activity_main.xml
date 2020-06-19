@@ -88,6 +88,13 @@
                 android:text="Launch Map"
                 android:onClick="launch"/>
 
+            <Button
+                android:id="@+id/goToSecond"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="goToSecond"
+                android:text="Next Activity" />
+
         </LinearLayout>
     </ScrollView>
 

@@ -4,4 +4,10 @@
     <string name="message_recieved">Message Recived</string>
     <string name="button_second">Reply</string>
     <string name="text_header_reply">Reply Received</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
 </resources>
